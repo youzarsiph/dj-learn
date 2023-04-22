@@ -1,2 +1,3 @@
 # admin-redesign
-Bootstrap theme for Django admin redesign project
+
+Redesign of Django admin interface using Bootstrap 5
