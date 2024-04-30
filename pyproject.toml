@@ -1,16 +1,20 @@
 [tool.poetry]
-name = "admin-redesign"
+name = "dj-learn"
 version = "0.1.0"
-description = "Redesign of Django admin interface using Bootstrap 5"
+description = "Django and Sci-Kit learn integration"
 authors = ["Yousef Abu Shanab <josephyousef249@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "admin_redesign"}]
-homepage = "https://github.com/youzarsiph/admin-redesign/"
-repository = "https://github.com/youzarsiph/admin-redesign/"
+packages = [{include = "dj_learn"}]
+homepage = "https://github.com/youzarsiph/dj-learn/"
+repository = "https://github.com/youzarsiph/dj-learn/"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+django = "^5.0.4"
+djangorestframework = "^3.15"
+scikit-learn = "^1.4.2"
+
 
 
 [build-system]

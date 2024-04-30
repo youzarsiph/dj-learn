@@ -1,3 +1,3 @@
-# admin-redesign
+# dj-learn
 
-Redesign of Django admin interface using Bootstrap 5
+Django and Sci-Kit learn integration
